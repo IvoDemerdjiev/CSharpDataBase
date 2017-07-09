@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<catalogue>
+  <album>
+    <name>Recovery</name>
+    <artist>Eminem</artist>
+    <year>2004</year>
+    <producer>Dre</producer>
+    <price>40</price>
+    <songs>
+     <song>
+       <title>Lose yourself</title>
+       <duration>4:02</duration>
+     </song>
+     <song>
+       <title>Just Lose it</title>
+       <duration>3:50</duration>
+     </song>
+    </songs>
+  </album>
+  <album>
+    <name>Covery</name>
+    <artist>Eminem</artist>
+    <year>2002</year>
+    <producer>Dre</producer>
+    <price>10</price>
+    <songs>
+     <song>
+       <title>Lose yourself</title>
+       <duration>4:02</duration>
+     </song>
+     <song>
+       <title>Just Lose it</title>
+       <duration>3:50</duration>
+     </song>
+    </songs>
+  </album>
+    <album>
+    <name>Compton</name>
+    <artist>Dr dre</artist>
+    <year>2014</year>
+    <producer>Dre</producer>
+    <price>30</price>
+    <songs>
+     <song>
+       <title>Kush</title>
+       <duration>3:20</duration>
+     </song>
+     <song>
+       <title>I need a doctor</title>
+       <duration>5:10</duration>
+     </song>
+    </songs>
+  </album>
+</catalogue>

@@ -1,0 +1,5 @@
+E:\C#\Tree\XML\XML\bin\Debug\XML.dll
+E:\C#\Tree\XML\XML\bin\Debug\XML.pdb
+E:\C#\Tree\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+E:\C#\Tree\XML\XML\obj\Debug\XML.dll
+E:\C#\Tree\XML\XML\obj\Debug\XML.pdb

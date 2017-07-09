@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns="urn:students">
+  <student>
+    <name>Ivan</name>
+    <sex>male</sex>
+    <birthDate>4.18.2000</birthDate>
+    <phone>Ivan</phone>
+    <email>IvanGeshev@gmail.com</email>
+    <course>IT</course>
+    <specialty>Math</specialty>
+    <facultyNum>192526589</facultyNum>
+    <takenexamps>
+     <examps>
+       <examName>History</examName>
+       <tutor>M.Marinov</tutor>
+       <score>5</score>
+       <data>05.05.2016</data>
+       <endorsement>false</endorsement>
+     </examps>
+    </takenexamps>
+  </student>
+  <student>
+    <name>Ivan</name>
+    <sex>male</sex>
+    <birthDate>4.18.2000</birthDate>
+    <phone>Ivan</phone>
+    <email>IvanGeshev@gmail.com</email>
+    <course>IT</course>
+    <specialty>Math</specialty>
+    <facultyNum>192526589</facultyNum>
+    <takenexamps>
+      <examps>
+        <examName>History</examName>
+        <tutor>M.Marinov</tutor>
+        <score>5</score>
+        <data>05.05.2016</data>
+        <endorsement>false</endorsement>
+      </examps>
+    </takenexamps>
+  </student>
+</students>

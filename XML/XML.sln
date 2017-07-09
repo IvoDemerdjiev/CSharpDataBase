@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XMLTest", "XMLTest", "{439FB305-E4F9-46FA-9DEF-3D8E65088D3D}"
+	ProjectSection(SolutionItems) = preProject
+		Students.xml = Students.xml
+		students.xslt = students.xslt
+		StudentsSchema.xsd = StudentsSchema.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

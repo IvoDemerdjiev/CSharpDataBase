@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="sex" type="xs:string" />
+              <xs:element name="birthDate" type="xs:string" />
+              <xs:element name="phone" type="xs:string" />
+              <xs:element name="email" type="xs:string" />
+              <xs:element name="course" type="xs:string" />
+              <xs:element name="specialty" type="xs:string" />
+              <xs:element name="facultyNum" type="xs:string" />
+              <xs:element maxOccurs="unbounded" name="takenexamps">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="examps"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+         </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="examps">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+        <xs:element name="tutor" type="xs:string" />
+        <xs:element name="score" type="xs:unsignedByte" nillable="true"/>
+        <xs:element name="date" type="xs:date" minOccurs="0" maxOccurs="1"/>
+        <xs:element name="endorsement" type="xs:boolean" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

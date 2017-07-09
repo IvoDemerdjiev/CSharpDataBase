@@ -1,0 +1,6 @@
+E:\C#\Tree\XMLProcessing\XMLProcessing\bin\Debug\XMLProcessing.exe.config
+E:\C#\Tree\XMLProcessing\XMLProcessing\bin\Debug\XMLProcessing.exe
+E:\C#\Tree\XMLProcessing\XMLProcessing\bin\Debug\XMLProcessing.pdb
+E:\C#\Tree\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.csprojResolveAssemblyReference.cache
+E:\C#\Tree\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.exe
+E:\C#\Tree\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.pdb

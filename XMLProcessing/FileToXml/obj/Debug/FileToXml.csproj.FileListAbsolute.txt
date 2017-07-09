@@ -1,0 +1,5 @@
+E:\C#\Tree\XMLProcessing\FileToXml\bin\Debug\FileToXml.exe.config
+E:\C#\Tree\XMLProcessing\FileToXml\bin\Debug\FileToXml.exe
+E:\C#\Tree\XMLProcessing\FileToXml\bin\Debug\FileToXml.pdb
+E:\C#\Tree\XMLProcessing\FileToXml\obj\Debug\FileToXml.exe
+E:\C#\Tree\XMLProcessing\FileToXml\obj\Debug\FileToXml.pdb
